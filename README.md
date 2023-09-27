@@ -19,11 +19,15 @@ I am a Software Engineer and Data Scientist. Proactive, self-taught, developing 
 
 I am software engineer with experience in development with Java, Spring and other technologies, now pursuing a career in Data Science. My transition has equipped me with strong problem-solving skills, coding proficiency, and an eagerness to apply these skills to data solutions. I've developed predictive models and conducted data analysis, showcasing my adaptability and commitment to learning. I'm excited about an opportunity to leverage my software engineering background and my growing data science expertise.
 You can take a look at my projects here.
+<br/>
+<br/>
 <a href="https://www.linkedin.com/in/alejandro-sandler-66ba4254/" target="_blank">
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href="https://alejandrosandler.wixsite.com/my-site" target="_blank">
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 </a>
+<br/>
+<br/>
 
 # Tech Stack
 
